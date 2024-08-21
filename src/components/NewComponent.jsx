@@ -1,5 +1,5 @@
-function NewComponent (props) {
-    return <h3 className={props.cssClass}>ciao sono {props.randomName} </h3>
+function NewComponent ({cssClass, randomName}) {
+    return <h3 className={cssClass}>ciao sono {randomName} </h3>
 }
 
 export default NewComponent

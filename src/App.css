@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.text-yellow {
+  color: yellow;
+}
+.text-pink {
+  color: pink;
+}
+.text-blue {
+  color: blue;
+}
